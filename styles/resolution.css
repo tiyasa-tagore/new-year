@@ -207,3 +207,73 @@ border-radius:150px;
     text-align: left;
     color: #444343;
     }
+
+ .last{
+display:flex ;
+position: absolute;
+width: 1600px;
+height: 577px;
+left: 0px;
+gap: 1000px;
+top: 2800.26px;
+background: #151414;
+ }
+ .title{
+position: absolute;
+padding: 80px 300px;
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 45px;
+line-height: 53px;
+color: white;
+ }
+.future-content{
+position: absolute;
+padding: 200px 300px;
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+color: #FFFFFF;
+ }
+.sub-title{
+    position: absolute;
+    width: 123px;
+height: 29px;
+left: 1046px;
+top: 80.26px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 53px;
+    color: white;  
+}
+.form{
+position: absolute;
+width: 123px;
+height: 29px;
+left: 1046px;
+top: 180.26px;
+}
+.subscribe  input[type="email"]{
+    margin-bottom: 24px;
+    border: 0;
+    width: 100%;
+    padding: 18px 30px;
+    background-color: #080808;
+    border-radius: 10px;
+    border-color: white;
+    color: #FFFFFF;
+}
+.btn-form{
+    position: absolute;
+width: 170.11px;
+height: 64px;
+left: 5px;
+top: 70.26px;
+border-radius: 10px;
+color: #F15B22;
+}
